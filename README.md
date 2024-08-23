@@ -1,1 +1,1 @@
-# k-mers-anti-microbe-resistance
+# k-mers-anti-microbial-resistance
